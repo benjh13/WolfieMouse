@@ -8,7 +8,7 @@
    * [Coding conventions](coding_conventions.md)
 * [Use with Prototyping board](use_with_prototype_board.md)
    * [Pins of NUCLEO Board](pins_of_nucleo_board.md)
-* Hardware
+* [Hardware](hardware.md)
 * Driver software
 * Algorithm
 * Simulation
