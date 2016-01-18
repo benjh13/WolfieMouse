@@ -13,6 +13,7 @@
    * Rotary Encoder
    * Range Sensors
    * SD Card to Save maze
+   * Microcontroller
 * [Driver software](driver_software.md)
 * [Algorithm](algorithm.md)
 * [Simulation](simulation.md)
