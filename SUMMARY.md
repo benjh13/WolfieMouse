@@ -10,7 +10,7 @@
    * [Pins of NUCLEO Board](pins_of_nucleo_board.md)
 * [Hardware](hardware.md)
    * [Microcontroller](microcontroller.md)
-   * Power Distribution
+   * [Power Distribution](power_distribution.md)
    * Range Sensors
    * Rotary Encoder
    * Motor (PWM output)
