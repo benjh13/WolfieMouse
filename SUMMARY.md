@@ -12,6 +12,7 @@
    * Motor (PWM output)
    * Rotary Encoder
    * Range Sensors
+   * SD Card to Save maze
 * [Driver software](driver_software.md)
 * [Algorithm](algorithm.md)
 * [Simulation](simulation.md)
