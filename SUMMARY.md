@@ -13,5 +13,5 @@
    * Rotary Encoder
 * [Driver software](driver_software.md)
 * [Algorithm](algorithm.md)
-* Simulation
+* [Simulation](simulation.md)
 
