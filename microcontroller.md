@@ -11,4 +11,4 @@ Refer following materials to get to know about this microcontroller:
 
 ## Clock configuration
 Clock configuration is important for timing.
-![](clock.png)
+![Clock configuration](clock.png)
