@@ -11,7 +11,7 @@
 * [Hardware](hardware.md)
    * Motor (PWM output)
    * Rotary Encoder
-* Driver software
+* [Driver software](driver_software.md)
 * Algorithm
 * Simulation
 
