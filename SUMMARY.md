@@ -14,6 +14,7 @@
    * Rotary Encoder
    * Motor (PWM output)
    * SD Card to Save maze
+   * Character Display
 * [Driver software](driver_software.md)
 * [Algorithm](algorithm.md)
 * [Simulation](simulation.md)
