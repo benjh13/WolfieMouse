@@ -12,6 +12,6 @@
    * Motor (PWM output)
    * Rotary Encoder
 * [Driver software](driver_software.md)
-* Algorithm
+* [Algorithm](algorithm.md)
 * Simulation
 
