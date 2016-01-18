@@ -10,12 +10,12 @@
    * [Pins of NUCLEO Board](pins_of_nucleo_board.md)
 * [Hardware](hardware.md)
    * Microcontroller
+   * Power Distribution
    * Range Sensors
    * Rotary Encoder
    * Motor (PWM output)
    * SD Card to Save maze
    * Character Display
-   * Power Distribution
    * Gyroscope
 * [Driver software](driver_software.md)
 * [Algorithm](algorithm.md)
