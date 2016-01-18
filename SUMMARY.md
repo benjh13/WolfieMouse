@@ -10,6 +10,7 @@
    * [Pins of NUCLEO Board](pins_of_nucleo_board.md)
 * [Hardware](hardware.md)
    * Motor (PWM output)
+   * Rotary Encoder
 * Driver software
 * Algorithm
 * Simulation
