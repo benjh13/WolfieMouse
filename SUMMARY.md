@@ -10,8 +10,8 @@
    * [Pins of NUCLEO Board](pins_of_nucleo_board.md)
 * [Hardware](hardware.md)
    * Microcontroller
-   * Motor (PWM output)
    * Rotary Encoder
+   * Motor (PWM output)
    * Range Sensors
    * SD Card to Save maze
 * [Driver software](driver_software.md)
