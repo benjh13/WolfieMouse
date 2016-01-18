@@ -15,6 +15,7 @@
    * Motor (PWM output)
    * SD Card to Save maze
    * Character Display
+   * Power Distribution
 * [Driver software](driver_software.md)
 * [Algorithm](algorithm.md)
 * [Simulation](simulation.md)
