@@ -16,6 +16,7 @@
    * SD Card to Save maze
    * Character Display
    * Power Distribution
+   * Gyroscope
 * [Driver software](driver_software.md)
 * [Algorithm](algorithm.md)
 * [Simulation](simulation.md)
