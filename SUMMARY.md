@@ -9,11 +9,11 @@
 * [Use with Prototyping board](use_with_prototype_board.md)
    * [Pins of NUCLEO Board](pins_of_nucleo_board.md)
 * [Hardware](hardware.md)
+   * Microcontroller
    * Motor (PWM output)
    * Rotary Encoder
    * Range Sensors
    * SD Card to Save maze
-   * Microcontroller
 * [Driver software](driver_software.md)
 * [Algorithm](algorithm.md)
 * [Simulation](simulation.md)
