@@ -18,6 +18,7 @@
    * Character Display
    * Gyroscope
    * Buttons and LED
+   * Speaker (optional)
 * [Driver software](driver_software.md)
 * [Algorithm](algorithm.md)
 * [Simulation](simulation.md)
