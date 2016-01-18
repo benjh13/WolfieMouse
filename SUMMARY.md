@@ -9,6 +9,7 @@
 * [Use with Prototyping board](use_with_prototype_board.md)
    * [Pins of NUCLEO Board](pins_of_nucleo_board.md)
 * [Hardware](hardware.md)
+   * Motor (PWM output)
 * Driver software
 * Algorithm
 * Simulation
