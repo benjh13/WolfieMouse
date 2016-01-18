@@ -1,5 +1,6 @@
 # Micromouse_2016_Docs
 # Introduction
+[![Join the chat at https://gitter.im/kbumsik/Micromouse_2016](https://badges.gitter.im/kbumsik/Micromouse_2016.svg)](https://gitter.im/kbumsik/Micromouse_2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Micromouse_2016 is a project for [IEEE Region 1 Micromouse competition](http://sites.ieee.org/r1studentconference/about/micromouse/). For further information about the competition, such as rules, refer this site.
 
