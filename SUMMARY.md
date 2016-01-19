@@ -10,6 +10,7 @@
    * [Pins of NUCLEO Board](pins_of_nucleo_board.md)
 * [Hardware](hardware.md)
    * [Microcontroller](microcontroller.md)
+       * Frequency and Over drive mode
    * [Power Distribution](power_distribution.md)
    * Range Sensors
    * Rotary Encoder
