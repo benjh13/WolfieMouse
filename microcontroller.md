@@ -9,6 +9,12 @@ Refer following materials to get to know about this microcontroller:
 * [HAL driver API description](http://www.st.com/st-web-ui/static/active/en/resource/technical/document/user_manual/DM00105879.pdf) (important)
 * [Programming manual](http://www.st.com/st-web-ui/static/active/en/resource/technical/document/programming_manual/DM00046982.pdf)
 
+#Microcontroller configuration
+The configuation file can be found in 
+
+## Pin configuration
+![Pin](lqfp64_pin.png)
+
 ## Clock configuration
 Clock configuration is important for timing.
-![Clock configuration](clock.png)
+![Clock](clock.png)
