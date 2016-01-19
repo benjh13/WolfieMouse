@@ -14,3 +14,4 @@ To contribute our project, please use the following links:
 ## Branch Description
 * `master`: main, stable version
 * `doc`: only for documentation (https://kbumsik.gitbooks.io/micromouse_2016/content/)
+* `test`: test branch
