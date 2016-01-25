@@ -21,6 +21,7 @@
    * Buttons and LED
    * Speaker (optional)
 * [Software](driver_software.md)
+   * Use of RTOS
 * [Algorithm](algorithm.md)
 * [Simulation](simulation.md)
 
