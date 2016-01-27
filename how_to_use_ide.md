@@ -1,5 +1,7 @@
 # How to use IDE
 
+You can download the IDE here: http://timor.atollic.com/truestudio/
+
 ## Add our existing project to the IDE
 ![](Ide_1.png)
 
